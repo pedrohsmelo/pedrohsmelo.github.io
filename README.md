@@ -1,2 +1,0 @@
-# pedrohsmelo.github.io
-pages
