@@ -1,0 +1,6 @@
+#adminmenu .toplevel_page_gutenverse-dashboard .wp-menu-image img,
+#adminmenu .toplevel_page_gutenverse-form .wp-menu-image img {
+  padding: 7px 0 0;
+  width: 20px;
+  height: 20px;
+}
